@@ -1,7 +1,7 @@
 Q1: n=68 arr=[1,2,3,4] str="abc"
 Reverse array/string/number
 
-Constraint:O(n) time, O(1) space
+Constraint:O(n) time, O(1) space (only in array and string)
 
 
 output:n=86 arr=[4,3,2,1] str="cba"
@@ -10,7 +10,7 @@ output:n=86 arr=[4,3,2,1] str="cba"
 Q2: n=68 arr=[1,2,3,4] str="aba"
 Check Palindrome array/string/number
 
-Constraint:O(n) time, O(1) space
+Constraint:O(n) time
 
 output:f,f,t
 
