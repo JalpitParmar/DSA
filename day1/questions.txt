@@ -1,0 +1,28 @@
+Q1: n=68 arr=[1,2,3,4] str="abc"
+Reverse array/string/number
+
+Constraint:O(n) time, O(1) space
+
+
+output:n=86 arr=[4,3,2,1] str="cba"
+
+
+Q2: n=68 arr=[1,2,3,4] str="aba"
+Check Palindrome array/string/number
+
+Constraint:O(n) time, O(1) space
+
+output:f,f,t
+
+
+Q3: arr=[1,2,3,4]
+Find Maximum
+
+Constraint:O(n) time, O(1) space
+
+Q4:arr=[65,98,15,32]
+Find Second Largest
+
+Constraint: Single pass only (O(n)), No sorting allowed
+
+output:65
