@@ -7,4 +7,3 @@ Binary Search
 Sorting:
 BubbleSort
 SelectionSort
-InsertionSort
