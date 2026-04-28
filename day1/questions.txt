@@ -19,5 +19,5 @@ Q3:arr=[65,98,15,32]
 Find Largest and Second Largest in array
 
 Constraint: Single pass only (O(n)), No sorting allowed
-
+    
 output:98,65

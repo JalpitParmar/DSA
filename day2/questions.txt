@@ -1,0 +1,10 @@
+Time & Space Complexity: (https://youtu.be/PwKv8fOcriM?si=8lwjJVE19x2cinXM)
+
+Searching:
+Linear Search 
+Binary Search 
+
+Sorting:
+BubbleSort
+SelectionSort
+InsertionSort
